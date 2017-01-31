@@ -1,0 +1,27 @@
+﻿body {
+      margin:0;
+      padding:20px;
+      font:12px/17px Arial, sans-serif;
+      background:#f9f9f9;
+}
+#separator {
+       height:50px;
+       width:1400px;
+       
+       text-decoration-style:solid;
+       text-align:center;
+       
+}
+#AllPairShort {
+        float:left;
+        width:70%;
+        height:1200px;
+       
+}
+#allpairlist {
+        
+        float:right;
+        width:30%;
+        height:1200px;
+       
+}
